@@ -3029,10 +3029,10 @@ local v76 = v66:T("Tab Teleport", "rbxassetid://0");
 local v77 = v66:T("Tab Shop", "rbxassetid://0");
 local v78 = v66:T("Tab Devil Fruit", "rbxassetid://0");
 local v79 = v66:T("Tab Miscellaneous", "rbxassetid://0");
-v67:Seperator("Join Discord");
-v67:Label("Everyone Goes Into Socialize");
-v67:Button("Copy Discord Link", function()
-	setclipboard("https://discord.gg/tenroblox");
+v67:Seperator("cái này hay lắm:)");
+v67:Label("ilovead");
+v67:Button("copy ik", function()
+	setclipboard("vlxx.my");
 end);
 v67:Seperator("Time");
 Time = v67:Label("Executer Time");
