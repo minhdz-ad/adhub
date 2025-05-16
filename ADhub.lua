@@ -6,7 +6,7 @@ elseif game.PlaceId == 7449423635 then
 	World3 = true;
 end;
 print("ad<3");
-local Update = (loadstring(Game:HttpGet("https://raw.githubusercontent.com/minhdz-ad/wew/refs/heads/main/Untitled-1.lua?token=GHSAT0AAAAAADD35KP36A6O5XIKN2TWWYGO2BHCL3Q")))();
+local Update = (loadstring(Game:HttpGet("https://raw.githubusercontent.com/minhdz-ad/uitminh/refs/heads/main/ui.lua")))();
 local Library = Update:Window({
 	SubTitle = "    ánh duong<3",
 	Size = UDim2.new(0, 470, 0, 320),
